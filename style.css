@@ -1,0 +1,93 @@
+body {
+	margin:0;
+	pading:0;
+}
+
+img {
+	position: absolute;
+}
+
+.pink {
+	opacity: 0;
+	left: 330px;
+	top: 804px;
+}
+
+.blue {
+	opacity: 0;
+	left: 127px;
+	top: 649px;
+}
+
+.green {
+	opacity: 0;
+	left: 1179px;
+	top: 272px;
+}
+
+.orange {
+	opacity: 0;
+	left: 62px;
+	top: 181px;
+}
+
+.red {
+	opacity: 0;
+	left: 1251px;
+	top: 251px;
+}
+
+.yellow {
+	opacity: 0;
+	left: 57px;
+	top: 254px;
+}
+
+.purple {
+	opacity: 0;
+	left: 551px;
+	top: 77px;
+}
+
+.white {
+	opacity: 0;
+	left: 335px;
+	top: 489px;
+}
+
+.black {
+	opacity: 0;
+	left: 346px;
+	top: 44px;
+}
+
+.lightGreen {
+	opacity: 0;
+	left: 1020px;
+	top: 172px;
+}
+
+.p8_arrow {
+	opacity: 0;
+	left: 632px;
+	top: 692px;
+}
+
+.p8_arrow:hover {
+	opacity: 1;
+}
+
+.black2 {
+	opacity: 1;
+	left: 890px;
+	top: 306px;
+}
+
+.black2:hover {
+	opacity: 0;
+}
+
+.gif {
+	left: 250px;
+	top: 400px;
+}
